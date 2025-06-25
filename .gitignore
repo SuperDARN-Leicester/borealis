@@ -43,3 +43,14 @@
 bin/
 build/
 *.dat
+/borealis_env3.11
+/borealis.egg-info
+borealisscreenrc
+/cppzmq
+*.gz
+LATEST.tar.gz.1
+LATEST.tar.gz.2
+/libsodium-stable
+/ntp-4.2.8p13
+/libzmq
+scripts/eers
