@@ -12,8 +12,8 @@
 # Band 8: 19415 - 19680 kHz
 # Band 9: 19800 - 19990 kHz
 # 10 kHz buffer added to account for emission bandwidth (10 kHz in license, transmission class and bandwith 10K0P0N).
-default=13475
 
+default=13475
 8000 9050
 9130 9910
 9985 11085
@@ -24,4 +24,4 @@ default=13475
 16370 18040
 18042 19425
 19670 19810
-19980 22000
+19980 20000
