@@ -90,6 +90,17 @@ EXPERIMENTS = {
         "interleaved_time": "interleavedscan",
         "normalsound_time": "normalsound",
     },
+    "han": {
+        "common_time": "twofsound_CFS",
+        "discretionary_time": "twofsound_CFS",
+        "htr_common_time": "twofsound_CFS",
+        "themis_time": "themisscan_CFS",
+        "special_time_normal": "twofsound_CFS",
+        "rbsp_time": "rbspscan_CFS",
+        "no_switching_time": "normalscan_CFS",
+        "interleaved_time": "interleavedscan_CFS",
+        "normalsound_time": "normalsound_CFS",
+    },
 }
 
 
